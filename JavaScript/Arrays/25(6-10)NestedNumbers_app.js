@@ -19,7 +19,7 @@ var numbers = [
                 [67, 6, 53, 537, 2, 168, 16, 2, 1, 8],
                 [76, 7, 9, 6, 3, 73, 77, 100, 56, 100]
             ];
-// your code goes here
+
 for (var row = 0; row < numbers.length; row++) {
   for (var col = 0; col < numberas[row].length; col++) {
     // console.log(numbers[i]);
@@ -33,6 +33,7 @@ console.log(numbers);
 
 
 //Version with i & j -> shorter
+
 // for (var i = 0; i < numbers.length; i++) {
 //   for (var j = 0; j < numbers[i].length; j++) {
 //     console.log(numbers[i]);

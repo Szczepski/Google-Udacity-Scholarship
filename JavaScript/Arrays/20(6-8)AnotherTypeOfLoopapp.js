@@ -6,6 +6,7 @@ var test = [12, 929, 11, 3, 199, 1000, 7, 1, 24, 37, 4,
 // Write your code here
 
 // Not working on Udacity console
+
 // test.forEach(function addNumber100(num, index, test) {
 //     num % 3 === 0 ? num += 100 : num = num;
 //     test[index] = num;
