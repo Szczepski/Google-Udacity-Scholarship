@@ -23,8 +23,7 @@ figure {
 }
 
 .graphic {
-    width: 100%;
-    max-width: 300px;
+    width: 300px;
     height: 200px;
     background-position: center;
     background-size: contain;
